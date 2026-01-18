@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusuftunc1
 - 👀 I’m interested in electronics , 3d animations and model rockets
-- 🌱 I’m currently learning python, MATLAB and embedded c
+- 🌱 I’m currently learning VHDL, MATLAB and embedded c
 - 📫 How to reach me :
   - :pencil2: Personal email = yusuftuncase@gmail.com
   - :office: [LinkedIn](https://www.linkedin.com/in/yusuftunç/)
